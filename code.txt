@@ -1,0 +1,21 @@
+# Welcome
+
+**Welcome** to the **Hellenic vACC Wiki for Greece and Cyprus!** Here you will find all the documentation you'll need to fly and control in the Greek virtual skies (Athinai FIR - LGGG).
+<br>
+### Guidance for Pilots
+Learn about your flight in our airspace, IFR & VFR and airport procedures.
+
+- [First steps](/pilots-firststeps)
+- [Airspace](/airspace)
+- [VFR procedures](/vfr)
+- [Pilot briefings](/briefings)
+
+<br>
+### Guidance for ATCOs
+Learn about the Greek ATC training, EuroScope, letters of agreement, standard operating procedures.
+
+- [First steps](/firststeps)
+- [EuroScope](/euroscope-installation)
+- [ATC Training Manual](/atc-training-manual)
+- [Letters of Agreement](/loa)
+- [Standard Operating Procedures](/sops)
